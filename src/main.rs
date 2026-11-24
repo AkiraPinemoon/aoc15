@@ -25,5 +25,5 @@ mod day24;
 mod day25;
 
 fn main() {
-    day25::part_one();
+    day22::part_two();
 }
